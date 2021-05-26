@@ -7,6 +7,6 @@ Exploration of Video Analytics for use in Australian Wildlife Conservation.
 
 - 26-May-Chickens.avi output from first trained iteration, used 100 images captured using azureEye SOM camera.
 
-This protope developed usign Azure Percept!
+This protope developed using Azure Percept!
 
 
