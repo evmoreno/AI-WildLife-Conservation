@@ -35,6 +35,3 @@ Binding Tip
 For example, on a Linux system, "Binds":["/etc/iotedge/storage/:/iotedge/storage/"] means the directory /etc/iotedge/storage on your host system is mapped to the directory /iotedge/storage/ in the container. 
  
 You can deploy Azure Services as container modules to IoT Edge!
-
-
-This project is an exploration of Edge AI and how it can applied to wildlife conservation initatives.
