@@ -10,7 +10,7 @@ The file "26-May-Chickens.avi" is the result recording an RTSP feed of the first
 
 Instructions for deploying the DK are here - https://docs.microsoft.com/en-us/azure/azure-percept/quickstart-percept-dk-set-up#. You do not need Azure Percept Development Kit to explore and build for Vision on Edge Scenarios. Check out this blog post https://techcommunity.microsoft.com/t5/internet-of-things/bringing-your-vision-ai-project-at-the-edge-to-production-is-now/ba-p/2259359 
 
-<h2> Concepts </h2>
+<h2> IoT Edge Concepts </h2>
 
 Review the IoT Reference Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot 
  
