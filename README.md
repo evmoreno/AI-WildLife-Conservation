@@ -10,7 +10,9 @@ The repository contains a trained YOLO model which identifies chickens in a live
 
 "26-May-Chickens.avi" is the result recording an RTSP feed of the first training iteration, which was based on 100 images captured using the [Azure Percept development kit](https://azure.microsoft.com/en-au/pricing/details/azure-percept/#)
 
-Instructions for [deploying the DK](https://docs.microsoft.com/en-us/azure/azure-percept/quickstart-percept-dk-set-up#). You do not need Azure Percept Development Kit to explore and build for Vision on Edge Scenarios. [Check out this blog post](https://techcommunity.microsoft.com/t5/internet-of-things/bringing-your-vision-ai-project-at-the-edge-to-production-is-now/ba-p/2259359)
+Instructions for [deploying the DK](https://docs.microsoft.com/en-us/azure/azure-percept/quickstart-percept-dk-set-up#). Azure Percept Portal is integrated into CustomVision.AI, this enables you to capture images, label images, train models and deploy directly to the appliance.
+
+You do not need Azure Percept Development Kit to explore and build for Vision on Edge Scenarios. [Check out this blog post](https://techcommunity.microsoft.com/t5/internet-of-things/bringing-your-vision-ai-project-at-the-edge-to-production-is-now/ba-p/2259359)
 
 
 <H2> Geese-AI -protoype</H2>
