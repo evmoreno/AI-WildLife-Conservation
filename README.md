@@ -27,11 +27,11 @@ IoT Hubs (https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage d
  
 IoT Edge Modules (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are Containers which are deployed to the device using IoT Hub Set-modules command, these modules are stored in either Azure Container registry or another private registry and pulled when modules are deployed to IoT Edge from Azure IoT Hub.
 
-![Pipeline](Images/pipeline.png)
+![Pipeline](Images/install-edge-full)
  
 IoT Edge Runtime (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime) includes the edgeHub (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-hub) and edgeAgent (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-agent) are container modules which are deployed to IoT Edge devices .
 
-![install-edge-full](Images/install-edge-full.png)
+![install-edge-full](Images/pipeline.png)
 
  Recommend following this tutorial (https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
  
