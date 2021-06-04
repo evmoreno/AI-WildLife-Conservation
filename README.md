@@ -45,9 +45,9 @@ Binding Tip
 For example, on a Linux system, "Binds":["/etc/iotedge/storage/:/iotedge/storage/"] means the directory /etc/iotedge/storage on your host system is mapped to the directory /iotedge/storage/ in the container. 
  
 You can deploy so many Azure Services as container modules to IoT Edge:
-	- Azure Functions - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function
-	- Azure Stream Analytics - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics
- - SQL Server (Time Series Insights) and SQL DB Edge - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server
+1. 	Azure Functions - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function
+2. 	Azure Stream Analytics - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics
+3.	SQL Server (Time Series Insights) and SQL DB Edge - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server
 
 
 The MSFT Repo can be found here - https://github.com/microsoft/containerregistry/blob/master/docs/dockerhub-to-mcr-repo-mapping.md
