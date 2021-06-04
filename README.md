@@ -24,7 +24,9 @@ The repository contains a trained YOLO model which identifies Scott Morrison in 
 
 ![iotrefarch](Images/iotrefarch.png)
 
-[IoT Hubs](https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices (compute) / IoT Devices (sensors) check out this [quickstart guide](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux). [IoT Edge Modules](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are containers, they can be stored in Azure Container registry or other public / private registries and deployed from IoT Hub to IoT Edge Runtime.
+[IoT Hubs](https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices (compute) / IoT Devices (sensors) check out this [quickstart guide](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux). 
+
+[IoT Edge Modules](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are containers, they can be stored in Azure Container registry or other public / private registries and deployed from IoT Hub to IoT Edge Runtime.
 
 ![Pipeline](Images/install-edge-full.png)
  
