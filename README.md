@@ -47,4 +47,4 @@ Outside of deploying modules to IoT Edge you also need to configure the Edge com
 Binding Tip
 For example, on a Linux system, "Binds":["/etc/iotedge/storage/:/iotedge/storage/"] means the directory /etc/iotedge/storage on your host system is mapped to the directory /iotedge/storage/ in the container. 
  
-You can deploy Azure Services as container modules to IoT Edge!
+You can deploy so many Azure Services as container modules to IoT Edge - https://github.com/microsoft/containerregistry/blob/master/docs/dockerhub-to-mcr-repo-mapping.md!
