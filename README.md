@@ -19,8 +19,7 @@ You do not need Azure Percept Development Kit to explore and build for Vision on
 
 <H2> Geese-AI -protoype</H2>
  
-The repository contains a trained YOLO model which identifies 
-![Scott Morrison](Images/scomo.jpg) in a live video stream.
+The repository contains a trained YOLO model which identifies [Scott Morrison](Images/scomo.jpg) in a live video stream.
 
 
 <h2> IoT Edge Concepts </h2>
