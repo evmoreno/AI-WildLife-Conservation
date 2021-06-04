@@ -20,34 +20,33 @@ The repository contains a trained YOLO model which identifies Scott Morrison in 
 
 <h2> IoT Edge Concepts </h2>
 
-Review the IoT Reference Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot 
+[Review the IoT Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot)
 
 ![iotrefarch](Images/iotrefarch.png)
 
-IoT Hubs (https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices (compute) / IoT Devices (sensors) (https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux). IoT Edge Modules (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are containers, they can be stored in Azure Container registry or other public / private registries and deployed from IoT Hub to IoT Edge Runtime.
+[IoT Hubs](https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices (compute) / IoT Devices (sensors) check out this [quickstart guide](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux). [IoT Edge Modules](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are containers, they can be stored in Azure Container registry or other public / private registries and deployed from IoT Hub to IoT Edge Runtime.
 
 ![Pipeline](Images/install-edge-full.png)
  
-IoT Edge Runtime (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime) consists of the edgeHub (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-hub) and edgeAgent (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-agent).
+[IoT Edge Runtime](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime) consists of the [edgeHub](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-hub) and [edgeAgent](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-agent).
 
 ![install-edge-full](Images/pipeline.png)
 
-Following this tutorial (https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
+Following this [tutorial](https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
  
-IoT Edge Modules can operate offline (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules#offline-capabilities) after syncing at least once with IoT Hub. You cannot however create, delete or update IoT Edge modules that are running on an IoT Edge when it is disconnected. Inter Module communication (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#module-communication) is configured using routing statements (data input and output)  and can include routing back to IoT Hub for use other Azure Services.
+IoT Edge Modules can operate [offline](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules#offline-capabilities) after syncing at least once with IoT Hub. You cannot however create, delete or update IoT Edge modules that are running on an IoT Edge when it is disconnected. [Inter Module communication](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#module-communication) is configured using routing statements (data input and output)  and can include routing back to IoT Hub for use other Azure Services.
  
-Outside of deploying modules to IoT Edge you may also need to configure the Edge compute's Port Bindings using Container Create (https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options) options:
-1.	Give modules access to host storage (https://docs.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module)
-2.	Map host port to module port (https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options#map-host-port-to-module-port)
-3.	Restrict module memory and CPU usage
+Outside of deploying modules to IoT Edge you may also need to configure the Edge compute's Port Bindings using [Container Create](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options) options:
+1.	[Give modules access to host storage](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module)
+2.	[Map host port to module port](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options#map-host-port-to-module-port)
  
 Binding Tip
 For example, on a Linux system, "Binds":["/etc/iotedge/storage/:/iotedge/storage/"] means the directory /etc/iotedge/storage on your host system is mapped to the directory /iotedge/storage/ in the container. 
  
 You can deploy so many Azure Services as container modules to IoT Edge:
-1. 	Azure Functions - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function
-2. 	Azure Stream Analytics - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics
-3.	SQL Server (Time Series Insights) and SQL DB Edge - https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server
+1. 	[Azure Functions](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function)
+2. 	[Azure Stream Analytics](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
+3.	[SQL Server (Time Series Insights) and SQL DB Edge](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server)
 
 
 The MSFT Repo can be found here - https://github.com/microsoft/containerregistry/blob/master/docs/dockerhub-to-mcr-repo-mapping.md
