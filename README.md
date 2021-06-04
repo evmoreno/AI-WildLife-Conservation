@@ -20,7 +20,7 @@ The repository contains a trained YOLO model which identifies Scott Morrison in 
 
 Review the IoT Reference Architecture - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot 
 
-![picture](\Images\iotrefarch.png)
+![picture](Images\iotrefarch.png)
  
 IoT Hubs (https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices or IoT Devices (https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux).
 
@@ -28,12 +28,12 @@ IoT Hubs (https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage d
  
 IoT Edge Modules (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are Containers which are deployed to the device using IoT Hub Set-modules command, these modules are stored in either Azure Container registry or another private registry and pulled when modules are deployed to IoT Edge from Azure IoT Hub.
 
-![picture](\Images\pipeline.png)
+![picture](Images\pipeline.png)
 
  
 IoT Edge Runtime (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime) includes the edgeHub (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-hub) and edgeAgent (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-agent) are container modules which are deployed to IoT Edge devices .
 
-![picture](\Images\install-edge-full.png)
+![picture](Images\install-edge-full.png)
  
 Recommend following this tutorial (https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
  
