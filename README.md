@@ -24,14 +24,14 @@ Review the IoT Reference Architecture - https://docs.microsoft.com/en-us/azure/a
 
 ![iotrefarch](Images/iotrefarch.png)
 
-IoT Hubs (https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices or IoT Devices (https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux).
+IoT Hubs (https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) manage devices such as IoT Edge Devices (compute) / IoT Devices (sensors) (https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux).
 
  
-IoT Edge Modules (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are Containers which are deployed to the device using IoT Hub Set-modules command, these modules are stored in either Azure Container registry or another private registry and pulled when modules are deployed to IoT Edge from Azure IoT Hub.
+IoT Edge Modules (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules) are containers, they can be stored in Azure Container registry or other public / private registries and deployed from IoT Hub to IoT Edge Runtime.
 
 ![Pipeline](Images/install-edge-full.png)
  
-IoT Edge Runtime (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime) includes the edgeHub (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-hub) and edgeAgent (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-agent) are container modules which are deployed to IoT Edge devices .
+IoT Edge Runtime (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime) consists of the edgeHub (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-hub) and edgeAgent (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#iot-edge-agent).
 
 ![install-edge-full](Images/pipeline.png)
 
