@@ -49,4 +49,4 @@ You can deploy so many Azure Services as container modules to IoT Edge:
 3.	[SQL Server (Time Series Insights) and SQL DB Edge](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-store-data-sql-server)
 
 
-The MSFT Repo can be found here - https://github.com/microsoft/containerregistry/blob/master/docs/dockerhub-to-mcr-repo-mapping.md
+The [MSFT Repo can be found here](https://github.com/microsoft/containerregistry/blob/master/docs/dockerhub-to-mcr-repo-mapping.md)
