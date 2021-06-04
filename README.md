@@ -34,9 +34,7 @@ IoT Edge Runtime (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runti
 
 Following this tutorial (https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
  
-IoT Edge Modules can operate offline (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules#offline-capabilities) after syncing at least once with IoT Hub. You cannot however create, delete or update IoT Edge modules that are running on an IoT Edge when it is disconnected.
- 
-Inter Module communication (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#module-communication) is configured using routing statements (data input and output)  and can include routing back to IoT Hub for use other Azure Services.
+IoT Edge Modules can operate offline (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules#offline-capabilities) after syncing at least once with IoT Hub. You cannot however create, delete or update IoT Edge modules that are running on an IoT Edge when it is disconnected. Inter Module communication (https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#module-communication) is configured using routing statements (data input and output)  and can include routing back to IoT Hub for use other Azure Services.
  
 Outside of deploying modules to IoT Edge you may also need to configure the Edge compute's Port Bindings using Container Create (https://docs.microsoft.com/en-us/azure/iot-edge/how-to-use-create-options) options:
 1.	Give modules access to host storage (https://docs.microsoft.com/en-us/azure/iot-edge/how-to-access-host-storage-from-module)
