@@ -37,10 +37,15 @@ The [Azure Percept Portal](https://ms.portal.azure.com/#blade/AzureEdgeDevices/M
 
 You do not need Azure Percept Development Kit to explore and build for Vision on Edge Scenarios [check out this blog post](https://techcommunity.microsoft.com/t5/internet-of-things/bringing-your-vision-ai-project-at-the-edge-to-production-is-now/ba-p/2259359)
 
+<H3> Macropod-AI </H3>
+This folder is a placeholder for a trained YOLO Model which identifies Brush Tailed Rock Wallabies. 
+
+My objective is to capture and label an image set to assist local conservation initatives. Right now, I am exploring SOM camera's, use of drones. I am privelleged to live in Kangaroo Valley https://www.rockwallaby.org.au/# 
+
 
 <H3> Geese-AI -protoype</H3>
  
-The repository contains a trained YOLO model which identifies [Geese](Images/scomo.jpg) in a live video stream.
+This folder contains a trained YOLO model which identifies [Geese](Images/scomo.jpg) in a live video stream.
 
 
 <H2> All of the above are enabled by Azure IoT Edge </H2>
