@@ -2,7 +2,7 @@
 
 Hardware acquired for this solution included:
 
-1) Azure Percept + 8020 building system https://8020.net/ being fixed to side of the cottage, next to arial which has an expansive view paddocks, dam and a transition between two paddocks.
+1) Azure Percept + 8020 building system https://8020.net/ being fixed to side of the cottage, next to satelite areal which has an expansive view paddocks, dam and a transition between two paddocks.
 
 2) PR-100 Waterproof Trap Night Vision Camera -  Exploring placement on fence posts in back paddock where the wallabies are stop to graze on sunset.
 
