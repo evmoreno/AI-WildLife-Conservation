@@ -18,8 +18,10 @@ All videos, images will be uploaded to the image folder this repo for access who
 
 
 <H2> Image Labeling </H2>
-Azure Percept integrates into CustomVision.AI which simplifies creation of classification, this referred to as a low code option - https://docs.microsoft.com/en-us/azure/azure-percept/tutorial-nocode-vision
 
-<H2> Azure ML Image Labelling </H2>
+<H3> CustomVision.AI </H3>
+Azure Percept integrates into CustomVision.AI which simplifies object detection and labeling, this referred to as a low code option - https://docs.microsoft.com/en-us/azure/azure-percept/tutorial-nocode-vision
+
+<H3> Azure ML Image Labelling </H3>
 Once I have raw data, my intention to use Azure ML to automate image labeling - https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-labeling#
 
