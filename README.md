@@ -25,7 +25,10 @@ https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-
 <H3> Macropod-AI </H3>
 This folder is a placeholder for a trained YOLO Model which identifies Brush Tailed Rock Wallabies, my objective is to capture and label an image set to assist local conservation initatives. 
 
-Right now, I am exploring SOM camera's, use of drones. I am privelleged to live in Kangaroo Valley https://www.rockwallaby.org.au/# 
+Right now, I am exploring SOM camera's, use of drones. 
+
+
+I am privelleged to live in Kangaroo Valley https://www.rockwallaby.org.au/# 
 
 
 <H3> Chicken-AI -protoype</H3>
