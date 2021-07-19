@@ -6,7 +6,9 @@ This repository is not complete, it contains simple prototypes that relate to re
 
 When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
 
-Key to the development of AI based image detection solutions is obtaning access to free labelled data-sets. At this time there are no Australian species specific labelled open data-sets. This by far the biggest challenge and one which can only be resolved by collaboration and sharing of data.
+Key to the development of AI based image detection solutions is obtaning access to free labelled open data-sets. At this time there are no Australian species specific labelled open data-sets. 
+
+This by far the biggest challenge and one which can only be resolved by collaboration and sharing of data.
 
 
 <H2> Ideas </H2>
