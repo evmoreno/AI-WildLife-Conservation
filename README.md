@@ -14,13 +14,16 @@ Sadly, and daily many Australian Macropods (https://lnkd.in/g72gXM9) which inclu
 
 In this case, the installation a simple sensor to create a sound deterrent (https://lnkd.in/gnAn6Jp) would stop the frequency of these encounters. Solving this type of problem using technology is good for business and good for Australia’s endemic wildlife.
 
-Augmenting phystical things like trains, planes and automobiles with cognitive services and artifical intelligence is a powerful.
+Augmenting phystical things like trains, planes and automobiles with cognitive services and artifical intelligence is powerful.
+
+
+
 
 This is inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
 
 
-<H2> Chicken-AI -protoype</H2>
+<H3> Chicken-AI -protoype</H3>
  
 The folder contains a docker images, a trained YOLO model which identifies chickens in a live video stream. 
 
@@ -35,12 +38,14 @@ The [Azure Percept Portal](https://ms.portal.azure.com/#blade/AzureEdgeDevices/M
 You do not need Azure Percept Development Kit to explore and build for Vision on Edge Scenarios [check out this blog post](https://techcommunity.microsoft.com/t5/internet-of-things/bringing-your-vision-ai-project-at-the-edge-to-production-is-now/ba-p/2259359)
 
 
-<H2> Geese-AI -protoype</H2>
+<H3> Geese-AI -protoype</H3>
  
 The repository contains a trained YOLO model which identifies [Geese](Images/scomo.jpg) in a live video stream.
 
 
-<h2> IoT Edge Concepts </h2>
+<H2> All of the above are enabled by Azure IoT Edge </H2>
+
+<H3> Concepts </H3>
 
 [Review the IoT Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot)
 
