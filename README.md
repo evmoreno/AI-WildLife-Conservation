@@ -67,7 +67,7 @@ This folder contains a trained YOLO model which identifies [Geese](Images/scomo.
 
 ![install-edge-full](Images/pipeline.png)
 
-Following this [tutorial](https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
+Follow this [tutorial](https://docs.microsoft.com/en-us/azure/iot-edge/module-composition) to learn how to deploy modules and establish routes in IoT Edge.
  
 IoT Edge Modules can operate [offline](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-modules#offline-capabilities) after syncing at least once with IoT Hub. You cannot however create, delete or update IoT Edge modules that are running on an IoT Edge when it is disconnected. [Inter Module communication](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime#module-communication) is configured using routing statements (data input and output)  and can include routing back to IoT Hub for use other Azure Services.
  
