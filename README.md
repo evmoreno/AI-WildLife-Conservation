@@ -9,7 +9,7 @@ Key to the development of AI based image detection solutions is obtaning access 
 
 <H2> Ideas </H2>
 
-Trains and Macrospods should never meet!
+Moving Vehicles and Macrospods should never meet!
 
 Sadly, and daily many Australian Macropods (https://lnkd.in/g72gXM9) which include kangaroos, wallabies, and wallaroos are killed when crossing train lines in rural and regional locations. When these events occur, the trains are required to be inspected and potentially go through costly maintenance and repair. Rather than accept this as an inevitable consequence of moving people and product across our nation, Australian businesses can explore use of edge-based video analytics and AI to see (detect), identity and respond appropriately to what lies ahead.
 
