@@ -18,7 +18,7 @@ In this case, the installation a simple sensor to create a sound deterrent (http
 Augmenting physical things like trains, planes and ships with cognitive services and artifical intelligence can be a powerful method to save our planet.
 
 
-https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ This was inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
+https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ this project inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
 <H3> Macropod-AI </H3>
 This folder is a placeholder for a trained YOLO Model which identifies Brush Tailed Rock Wallabies, my objective is to capture and label an image set to assist local conservation initatives. 
