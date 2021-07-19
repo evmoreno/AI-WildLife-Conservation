@@ -2,7 +2,9 @@
 
 <H1> Exploration of Live Video Analytics in Australian Wildlife Conservation.</H1>
 
-This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. For me, innovation across this space is an "and-and" not an "and-or" value proposition. Ideation and collaboration are essential to solving real world problems. When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
+This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. For me, innovation across this space is an "and-and" not an "and-or" value proposition. Ideation and collaboration are essential to solving real world problems. 
+
+When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
 
 <H2> Ideas </H2>
 
@@ -12,12 +14,9 @@ Sadly, and daily many Australian Macropods (https://lnkd.in/g72gXM9) which inclu
 
 In this case, the installation a simple sensor to create a sound deterrent (https://lnkd.in/gnAn6Jp) would stop the frequency of these encounters. Solving this type of problem using technology is good for business and good for Australia’s endemic wildlife.
 
-Augmenting phystical things like trains, planes and automobiles with cognitive services and artifical intelligence is powerful. 
+Augmenting physical things like trains, planes and ships with cognitive services and artifical intelligence can be a powerful method to save our planet.
 
-https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/
-
-This is inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
-
+https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ This was inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
 
 <H3> Chicken-AI -protoype</H3>
