@@ -22,6 +22,10 @@ Augmenting physical things like trains, planes and ships with cognitive services
 
 https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ This was inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
+<H3> Macropod-AI </H3>
+This folder is a placeholder for a trained YOLO Model which identifies Brush Tailed Rock Wallabies. 
+
+My objective is to capture and label an image set to assist local conservation initatives. Right now, I am exploring SOM camera's, use of drones. I am privelleged to live in Kangaroo Valley https://www.rockwallaby.org.au/# 
 
 <H3> Chicken-AI -protoype</H3>
  
@@ -36,11 +40,6 @@ Instructions for [deploying the Development Kit](https://docs.microsoft.com/en-u
 The [Azure Percept Portal](https://ms.portal.azure.com/#blade/AzureEdgeDevices/Main/overview) is integrated with [CustomVision.AI](https://www.customvision.ai/) , this enables you to automate image capture, label images, train models and then deploy the trained model to the appliance.
 
 You do not need Azure Percept Development Kit to explore and build for Vision on Edge Scenarios [check out this blog post](https://techcommunity.microsoft.com/t5/internet-of-things/bringing-your-vision-ai-project-at-the-edge-to-production-is-now/ba-p/2259359)
-
-<H3> Macropod-AI </H3>
-This folder is a placeholder for a trained YOLO Model which identifies Brush Tailed Rock Wallabies. 
-
-My objective is to capture and label an image set to assist local conservation initatives. Right now, I am exploring SOM camera's, use of drones. I am privelleged to live in Kangaroo Valley https://www.rockwallaby.org.au/# 
 
 
 <H3> Geese-AI -protoype</H3>
