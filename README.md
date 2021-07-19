@@ -2,7 +2,9 @@
 
 <H1> Exploration of Live Video Analytics in Australian Wildlife Conservation.</H1>
 
-This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. This an and-and not an and-or proposition.
+This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. 
+
+For me, innovation in across this space is an "and-and" not an "and-or" value proposition.
 
 Ideation and collaboration are essential to solving real world problems. When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
 
