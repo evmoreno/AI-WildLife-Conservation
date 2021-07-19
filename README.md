@@ -16,6 +16,9 @@ In this case, the installation a simple sensor to create a sound deterrent (http
 
 Augmenting physical things like trains, planes and ships with cognitive services and artifical intelligence can be a powerful method to save our planet.
 
+Key to the development of AI based image detection solutions is obtaning access to free labelled data-sets. At this time there are no Australian species specific labelled open data-sets. This by far the biggest challenge and one which can only be resolved by collaboration and sharing of data.
+
+
 https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ This was inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
 
