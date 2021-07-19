@@ -6,6 +6,9 @@ This repository is not complete, it contains simple prototypes that relate to re
 
 When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
 
+Key to the development of AI based image detection solutions is obtaning access to free labelled data-sets. At this time there are no Australian species specific labelled open data-sets. This by far the biggest challenge and one which can only be resolved by collaboration and sharing of data.
+
+
 <H2> Ideas </H2>
 
 Trains and Macrospods should never meet!
@@ -15,8 +18,6 @@ Sadly, and daily many Australian Macropods (https://lnkd.in/g72gXM9) which inclu
 In this case, the installation a simple sensor to create a sound deterrent (https://lnkd.in/gnAn6Jp) would stop the frequency of these encounters. Solving this type of problem using technology is good for business and good for Australia’s endemic wildlife.
 
 Augmenting physical things like trains, planes and ships with cognitive services and artifical intelligence can be a powerful method to save our planet.
-
-Key to the development of AI based image detection solutions is obtaning access to free labelled data-sets. At this time there are no Australian species specific labelled open data-sets. This by far the biggest challenge and one which can only be resolved by collaboration and sharing of data.
 
 
 https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ This was inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
