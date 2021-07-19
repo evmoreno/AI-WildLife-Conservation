@@ -1,4 +1,4 @@
-<H1> Brush Tailed Rockwallaby Experinment </H1>
+<H1> Brush Tailed Rock Wallaby Experinment </H1>
 
 Hardware acquired for this solution included:
 
