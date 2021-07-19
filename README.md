@@ -2,18 +2,14 @@
 
 <H1> Exploration of Live Video Analytics in Australian Wildlife Conservation.</H1>
 
-This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. For me, innovation across this space is an "and-and" not an "and-or" value proposition. Ideation and collaboration are essential to solving real world problems. 
+This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. For me, innovation across this space is an "and-and" not an "and-or" value proposition. When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
 
-When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
-
-Key to the development of AI based image detection solutions is obtaning access to free labelled open data-sets. At this time there are no Australian species specific labelled open data-sets. 
-
-This by far the biggest challenge and one which can only be resolved by collaboration and sharing of data.
+Key to the development of AI based image detection solutions is obtaning access to free labelled open data-sets. At this time there are no Australian species specific labelled open data-sets. This is by far the biggest challenge and one which can only be resolved by sharing of data.
 
 
 <H2> Ideas </H2>
 
-Trains and Macrospods should never meet!
+Moving Vehicles and Macrospods should never meet!
 
 Sadly, and daily many Australian Macropods (https://lnkd.in/g72gXM9) which include kangaroos, wallabies, and wallaroos are killed when crossing train lines in rural and regional locations. When these events occur, the trains are required to be inspected and potentially go through costly maintenance and repair. Rather than accept this as an inevitable consequence of moving people and product across our nation, Australian businesses can explore use of edge-based video analytics and AI to see (detect), identity and respond appropriately to what lies ahead.
 
@@ -22,7 +18,7 @@ In this case, the installation a simple sensor to create a sound deterrent (http
 Augmenting physical things like trains, planes and ships with cognitive services and artifical intelligence can be a powerful method to save our planet.
 
 
-https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ This was inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
+https://www.linkedin.com/pulse/trains-elephants-what-could-possibly-have-common-ev-moreno/ this project inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
 <H3> Macropod-AI </H3>
 This folder is a placeholder for a trained YOLO Model which identifies Brush Tailed Rock Wallabies, my objective is to capture and label an image set to assist local conservation initatives. 
