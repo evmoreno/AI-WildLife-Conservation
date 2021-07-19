@@ -18,16 +18,13 @@ In this case, the installation a simple sensor to create a sound deterrent (http
 
 Augmenting phystical things like trains, planes and automobiles with cognitive services and artifical intelligence is powerful.
 
-
-
-
 This is inspired by Microsoft Project15, with a goal to conservation and ecosystem sustainability through use an open platform that brings the latest Microsoft cloud and Internet of Things (IoT) technologies to accelerate scientific teams building solutions like species tracking & observation, poaching prevention, ecosystem monitoring, pollution detection, etc. https://microsoft.github.io/project15/
 
 
 
 <H3> Chicken-AI -protoype</H3>
  
-The folder contains a docker images, a trained YOLO model which identifies chickens in a live video stream. 
+The folder contains a docker image, with a trained YOLO model which identifies chickens in a live video stream. 
 
 ![chicken](Images/chickenai.png)
 
