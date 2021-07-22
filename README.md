@@ -2,7 +2,7 @@
 
 <H1> Exploration of Live Video Analytics in Australian Wildlife Conservation.</H1>
 
-This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. For me, innovation across this space is an "and-and" not an "and-or" value proposition. When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
+This repository is not complete, it contains simple prototypes that relate to real world problems where technology can be used to create positive outcomes for both Australian business and Australia's endemic wildlife. For me, innovation across this space should be an "and" not an "or" value proposition. When we bring scientists, government and technologists together we create diverse teams which are uniquely able to create innovative solutions.
 
 Key to the development of AI based image detection solutions is obtaning access to free labelled open data-sets. At this time there are no Australian species specific labelled open data-sets. This is by far the biggest challenge and one which can only be resolved by sharing of data.
 
