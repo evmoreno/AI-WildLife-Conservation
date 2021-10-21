@@ -48,7 +48,7 @@ You do not need Azure Percept Development Kit to explore and build for Vision on
  
 This folder contains a trained YOLO model which identifies [Geese](Images/scomo.jpg) in a live video stream.
 
-<H3> [Find the snow leopard](https://snowleopards.microsoft.com/) </H3>
+[Find the snow leopard](https://snowleopards.microsoft.com/)
 
 <H2> All of the above are enabled by Azure IoT Edge </H2>
 
